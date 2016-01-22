@@ -5,6 +5,6 @@
 
 ![gaytri](https://cloud.githubusercontent.com/assets/16843273/12522937/440d2270-c119-11e5-9ee4-a3e3d851b9ad.jpg)
 
--NAME: gayatri bhimani
+-FIRST NAME: gayatri  LAST NAME:bhimani
 
 -EMAIL ID: gayatri.b1994@gmail.com
