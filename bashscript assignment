@@ -1,3 +1,5 @@
+# this is my bash script assignment
+
 login as: bhimanig
 bhimanig@cs2.mwsu.edu's password:
 Last login: Wed Feb 10 13:13:57 2016 from cpe-72-182-134-38.sw.res.rr.com
@@ -6,15 +8,23 @@ bhimanig@cs2:~$ ls
 bhimanig@cs2:~$ cd 5143_Opsys
 bhimanig@cs2:~/5143_Opsys$ ls
 command_args.sh  random.sh  test.txt  versiona.sh  versionb.sh
+
+# script 1
 bhimanig@cs2:~/5143_Opsys$ ./command_args.sh hello this is gayatri hw r u
 hello hai
 hello this is gayatri hw r u
 hello
 hello
+
+# script 2
 bhimanig@cs2:~/5143_Opsys$ ./random.sh
 random word is:cdgh
+
+#script 3
 bhimanig@cs2:~/5143_Opsys$ ./versiona.sh test.txt
-the copied file is: test.txt
+the copied file is: 2016-02-10_test.txt
+
+# script 4
 bhimanig@cs2:~/5143_Opsys$ ./versionb.sh test.txt
-the created/changed file is:test.txt
+the created/changed file is:test_2016-02-10.txt
 bhimanig@cs2:~/5143_Opsys$
