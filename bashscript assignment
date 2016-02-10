@@ -1,0 +1,20 @@
+login as: bhimanig
+bhimanig@cs2.mwsu.edu's password:
+Last login: Wed Feb 10 13:13:57 2016 from cpe-72-182-134-38.sw.res.rr.com
+bhimanig@cs2:~$ ls
+5143_Opsys  nano.save  nano.save.1  nano.save.2  public-html  public_html
+bhimanig@cs2:~$ cd 5143_Opsys
+bhimanig@cs2:~/5143_Opsys$ ls
+command_args.sh  random.sh  test.txt  versiona.sh  versionb.sh
+bhimanig@cs2:~/5143_Opsys$ ./command_args.sh hello this is gayatri hw r u
+hello hai
+hello this is gayatri hw r u
+hello
+hello
+bhimanig@cs2:~/5143_Opsys$ ./random.sh
+random word is:cdgh
+bhimanig@cs2:~/5143_Opsys$ ./versiona.sh test.txt
+the copied file is: test.txt
+bhimanig@cs2:~/5143_Opsys$ ./versionb.sh test.txt
+the created/changed file is:test.txt
+bhimanig@cs2:~/5143_Opsys$
