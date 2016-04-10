@@ -24,8 +24,7 @@ In our program if  we remove join() in main method finish first then threadA and
 Answer: When we try to Pressing Ctrl + c while a program is running will cause to raise a KeyboardInterupt.all the other threads are 
 interepted untill child threads finish their work.
 
-##5. Read and run Threads4.py. This generates a different and more ridiculous race condition. Write concise 
-explanation of what's happening to cause this bizarre behavior using lines from the code and precise explanation.
+##5. Read and run Threads4.py. This generates a different and more ridiculous race condition. Write concise explanation of what's happening to cause this bizarre behavior using lines from the code and precise explanation.
 
 Answer: 
 
