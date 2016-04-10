@@ -4,9 +4,7 @@ M#: M20222781
 
 1. Explain the differences between Threads1 and Threads2 using lines from the code and a precise explanation.
 
-Answer: In the thread1.py both the threads A and B are accessing a shared resource and all the instructions are atomic.Threads1 does not 
-use a sharedCounter, which means that, the 2 threads are created and executed independently. it works like parallelprogramming when 2 
-different threads get their own space to work with the processor. Where as in Threads2 the concept of sharedCounter
+Answer: In the thread1.py both the threads A and B are accessing a shared resource and all the instructions are atomic.Threads1 does not use a sharedCounter, which means that, the 2 threads are created and executed independently. it works like parallelprogramming when 2 different threads get their own space to work with the processor. Where as in Threads2 the concept of sharedCounter
 is implemented to asyncronusly run both the threads. This will link the threads, but causes race conditions which requires the 
 implementation of locks to avoid it. 
                                       sharedCounter += 1.
